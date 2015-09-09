@@ -30,6 +30,7 @@ gem 'angular-rails-templates'
 # gem 'capistrano-rails', group: :development
 
 group :development, :test do
+  gem 'pry-rails'
 
   gem 'rspec-rails'
 
